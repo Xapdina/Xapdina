@@ -27,8 +27,7 @@ Hardworking Python developer. Proficient in frameworks - Flask, Django. I enjoy 
 - HTML / CSS
 - Regex
 - Poetry
-- Computer Science
-- Web Networks
+- Computer Science / Web Networks
 - macOS / Linux
 - Unit tests
 - gunicorn
