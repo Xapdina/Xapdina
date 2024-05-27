@@ -6,8 +6,10 @@ I'm a Python-backend developer
 Hardworking Python developer. Proficient in frameworks - Flask, Django. I enjoy working with databases. I constantly study new technologies, computer science, and networking technologies to improve my skills. My extensive experience in working with people allows me to approach problem-solving from different perspectives.
 
 * 🌍  I'm based in Moscow
-* 🖥️  See my portfolio at [My profile](https://cv.hexlet.io/ru/resumes/3828)
-* ✉️  You can contact me at [daniilbagaturiya@ya.ru](mailto:daniilbagaturiya@ya.ru), [telegram](https://t.me/Dani_Baga)
+* 🖥️  See my portfolio at [My Hexlet CV](https://cv.hexlet.io/ru/resumes/3828)
+* ✉️  You can contact me at
+  [daniilbagaturiya@ya.ru](mailto:daniilbagaturiya@ya.ru) or 
+  [my telegram](https://t.me/Dani_Baga)
 * 🧠  I'm learning Celery, Redis, DevOps
 * 🤝  I'm open to collaborating on Web-development and Gamedev
 * ⚡  I used to work in government institutions and as a cook.
