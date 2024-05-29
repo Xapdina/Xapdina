@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel
 
-I'm a Python-backend developer
+I'm a Python Backend Developer
 ------------------------------
 
 Hardworking Python developer. Proficient in frameworks - Flask, Django. I enjoy working with databases. I constantly study new technologies, computer science, and networking technologies to improve my skills. My extensive experience in working with people allows me to approach problem-solving from different perspectives.
